@@ -1,0 +1,3 @@
+[submodule "Moteur-de-recherche"]
+	path = Moteur-de-recherche
+	url = https://github.com/Wassim-ssim/Moteur-de-recherche.git
